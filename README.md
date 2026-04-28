@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Capsule Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=160&section=header&text=Hey,%20I'm%20KUSHAL MAKWANA%20👋&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=Aspiring%20Developer%20·%20MERN%20Stack%20Learner&descAlignY=68&descSize=15&descColor=ccc8ff" width="100%" />
+<!-- Capsule Header  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=header&text=Hey,%20I'm%20KUSHAL%20👋&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=Aspiring%20Developer%20·%20MERN%20Stack%20Learner&descAlignY=68&descSize=15&descColor=ccc8ff" width="100%" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=480&lines=Learning+Something+New+Every+Day;Python+%7C+Java+%7C+JavaScript;MERN+Stack+Developer;Building+Projects+%26+Solving+Problems" alt="Typing SVG" />
@@ -62,7 +62,7 @@ goal       : Build real-world projects & land a great placement
 <table align="center">
   <tr>
     <td>🧠</td>
-    <td>Practicing <strong>Data Structures & Algorithms</strong> in Java</td>
+    <td>Practicing <strong>Data Structures & Algorithms</strong></td>
   </tr>
   <tr>
     <td>⚙️</td>
