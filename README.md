@@ -1,37 +1,121 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**KushalM5238/KushalM5238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Capsule Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=160&section=header&text=Hey,%20I'm%20KUSHAL MAKWANA%20👋&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=Aspiring%20Developer%20·%20MERN%20Stack%20Learner&descAlignY=68&descSize=15&descColor=ccc8ff" width="100%" />
 
-Here are some ideas to get you started:
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=480&lines=Learning+Something+New+Every+Day;Python+%7C+Java+%7C+JavaScript;MERN+Stack+Developer;Building+Projects+%26+Solving+Problems" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm KUSHAL MAKWANA</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalm5238&label=Profile%20views&color=0e75b6&style=flat" alt="kushalm5238" /> </p>
+<!-- Profile Views + Followers -->
+<!--![Profile Views](https://komarev.com/ghpvc/?username=KushalM5238&style=flat-square&color=6C63FF&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/KushalM5238?style=flat-square&color=6C63FF&labelColor=1a1a2e&label=Followers)-->
 
-- 🌱 I’m currently learning **MERN**
+</div>
 
-- 📫 How to reach me **kishal4433@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kushalmakwana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kushalmakwana" height="30" width="40" /></a>
-<!-- <a href="https://www.topcoder.com/members/363440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="363440" height="30" width="40" /></a> -->
-</p>
+## ✦ About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+```yaml
+name       : Kushal Makwana
+role       : Web Developer
+focus      : MERN Stack + DSA + Placement Prep
+learning   : Java • Python • JavaScript • Data Structures
+interests  : Web Development • Open Source • Software Engineering
+goal       : Build real-world projects & land a great placement
+```
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushalm5238&show_icons=true&locale=en&layout=compact" alt="kushalm5238" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushalm5238&" alt="kushalm5238" /></p>
+## ✦ Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<!--![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)-->
+
+**Languages & Other**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+</div>
+
+---
+
+## ✦ Currently Working On
+
+<table align="center">
+  <tr>
+    <td>🧠</td>
+    <td>Practicing <strong>Data Structures & Algorithms</strong> in Java</td>
+  </tr>
+  <tr>
+    <td>⚙️</td>
+    <td>Building full-stack <strong>MERN projects</strong></td>
+  </tr>
+  <tr>
+    <td>📦</td>
+    <td>Exploring <strong>open source</strong> & GitHub workflows</td>
+  </tr>
+  <tr>
+    <td>🎯</td>
+    <td>Preparing for <strong>campus placements</strong></td>
+  </tr>
+</table>
+
+---
+
+## ✦ GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KushalM5238&theme=tokyonight" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KushalM5238&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=ff6b6b&currStreakLabel=6C63FF" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KushalM5238&theme=tokyonight" />
+
+</div>
+
+---
+
+## ✦ Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/KushalM5238">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:kishal4433@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%" />
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
